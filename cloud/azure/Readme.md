@@ -1,0 +1,1 @@
+- [AZ104 learning path](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/)
