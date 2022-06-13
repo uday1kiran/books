@@ -15,3 +15,9 @@ nuts/fruits
 
 -------------------------------
 
+# bedtime drink:
+30 min before sleep:
+milk with
+ashwagandha+saffron+nutmeg+turmeric+cinnamon
+
+
